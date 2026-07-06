@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
