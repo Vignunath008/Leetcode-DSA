@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
 | ------- |
