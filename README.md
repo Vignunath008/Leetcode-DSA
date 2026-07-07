@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -52,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
