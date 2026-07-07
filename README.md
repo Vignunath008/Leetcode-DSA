@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
