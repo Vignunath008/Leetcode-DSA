@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0413-arithmetic-slices) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
 | ------- |
