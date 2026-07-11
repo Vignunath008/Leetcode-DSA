@@ -1,15 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        y={"(":0,"[":1,"{":2}
-        x={")":0,"]":1,"}":2}
+        x={"(":0,"[":1,"{":2}
+        y={")":0,"]":1,"}":2}
         z=[]
         for i in range(len(s)):
-            if s[i] in y:
-                z.append(y[s[i]])
-            elif s[i] in x:
+            if s[i] in x:
+                z.append(x[s[i]])
+            elif s[i] in y:
                 if not z:
                     return False
-                if z[-1]!=x[s[i]]:
+                elif z[-1]!=y[s[i]]:
                     return False
                 else:
                     z.pop()
@@ -18,8 +18,7 @@ class Solution:
         else:
             return False
         
-            
-            
+                
 
             
 
