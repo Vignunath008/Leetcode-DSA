@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
