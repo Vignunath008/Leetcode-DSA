@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2765-longest-alternating-subarray](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2765-longest-alternating-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2765-longest-alternating-subarray](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2765-longest-alternating-subarray) |
 <!---LeetCode Topics End-->
