@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
