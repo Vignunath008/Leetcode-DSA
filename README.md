@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
