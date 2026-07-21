@@ -4,10 +4,22 @@ class Solution:
         Do not return anything, modify nums in-place instead.
 
         """
+        x=[]
+        z=[]
         n=len(nums)
         k%=n
-        m=n-k
-        x=nums[m:]
-        y=nums[:m]
-        nums[:]=x+y
+        i=-k
+        y=0
+        while i<=-1:
+            x.append(nums[i])
+            i+=1
+        while  y<n-k:
+            z.append(nums[y])
+            y+=1
+        nums[:]=x+z
+
+        
+        
+
+
         
