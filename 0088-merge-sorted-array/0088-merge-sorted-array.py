@@ -3,9 +3,11 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        nums=nums1[:m]
-        nums2=nums2[:n]
-        nums1[:]=sorted(nums+nums2)
+        x=nums1[:m]
+        y=nums2[:n]
+        nums1[:]=x+y
+        nums1.sort()
+       
         
         
         
