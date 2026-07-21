@@ -6,6 +6,8 @@ class Solution:
         """
         n=len(nums)
         k%=n
-        x=nums[-k:]
-        y=nums[:-k]
+        m=n-k
+        x=nums[m:]
+        y=nums[:m]
         nums[:]=x+y
+        
