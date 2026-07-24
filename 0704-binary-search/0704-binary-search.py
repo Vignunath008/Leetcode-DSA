@@ -4,8 +4,6 @@ class Solution:
         left=0
         right=n-1
         while left<=right:
-            if target not in nums:
-                return -1
             mid=(left+right)//2
             if nums[mid]==target:
                 return mid
@@ -13,5 +11,6 @@ class Solution:
                 left=mid+1
             else:
                 right=mid-1
+        return -1
         
         
