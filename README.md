@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0495-teemo-attacking) |
 | [0704-binary-search](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0704-binary-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2765-longest-alternating-subarray](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2765-longest-alternating-subarray) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
