@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -221,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
