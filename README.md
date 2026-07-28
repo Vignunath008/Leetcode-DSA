@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0704-binary-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2765-longest-alternating-subarray](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2765-longest-alternating-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
