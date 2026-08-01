@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
