@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0389-find-the-difference) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0495-teemo-attacking) |
 ## Monotonic Stack
