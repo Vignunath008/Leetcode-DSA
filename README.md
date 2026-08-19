@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2765-longest-alternating-subarray](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2765-longest-alternating-subarray) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
