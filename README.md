@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2765-longest-alternating-subarray](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2765-longest-alternating-subarray) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/Vignunath008/Leetcode-DSA/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vignunath008/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vignunath008/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
